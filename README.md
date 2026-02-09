@@ -24,4 +24,4 @@ FirstResponse is a lightweight Python-based incident response tool designed for 
 - [ ] Export to JSON/CSV format for automated analysis
 
 ## Author
-Just a cybersecurity student building practical incident response tools. -hexidecinull
+Just a cybersecurity student practicing in building python-based tools designed for IT and Cybersecurity. -hexidecinull
