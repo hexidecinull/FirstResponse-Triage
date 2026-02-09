@@ -1,4 +1,4 @@
-# FirstResponse: Automated Triage Collector
+# FirstResponse: Simple Automated Triage Collector
 
 ## Overview
 FirstResponse is a lightweight Python-based incident response tool designed for first responders and IT technicians. It automates the collection of volatile system data (processes and network state) to aid in forensic analysis.
