@@ -17,11 +17,13 @@ FirstResponse is a lightweight Python-based incident response tool designed for 
 - Python 3.7+
 - Administrator/root privileges (recommended for complete data collection)
 
-## Future Roadmap
-- [ ] Add Hash calculation (MD5/SHA256) for running executables
-- [ ] Implement browser history scraping
-- [ ] Add support for Linux/macOS specific artifacts
-- [ ] Export to JSON/CSV format for automated analysis
+## NEW Updates!
+
+- **GUI Usage** [WIP]
+- **Hash Calculations** (MD5/SHA256)
+- **Browser History Scrapping**
+- **Additional support for Linux/ MacOs** [UNTESTED!] 
+- **Export to JSON/CSV Format**
 
 ## Author
 Just a cybersecurity student practicing in building python-based tools designed for IT and Cybersecurity. -hexidecinull
